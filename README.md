@@ -8,7 +8,7 @@ or any related emerging technologies, we encourage you to [include your company
 name here][2].
 
 [1]: https://www.meetup.com/web-components-meetup/
-[2]: https://github.com/lndwc/companies
+[2]: https://github.com/ldnwc/companies
 
-[slack]: https://lndwc.slack.com/
+[slack]: https://ldnwc.slack.com/
 
