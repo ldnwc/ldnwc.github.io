@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: rgba(0, 0, 0, .02);
+}
+
+body::before {
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  content: '';
+  background: url('../img/ldnwc-pattern.svg');
+  background-size: 40px;
+  transform: rotate(-15deg);
+  animation: pattern-move 8s linear infinite;
+}
+
+.ldnwc-logo {
+  position: relative;
+  margin: auto;
+  max-width: 96vw;
+  max-height: 96vh;
+}
+
+@keyframes pattern-move {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: -160px 0;
+  }
+}
