@@ -10,5 +10,4 @@ name here][2].
 [1]: https://www.meetup.com/web-components-meetup/
 [2]: https://github.com/ldnwc/companies
 
-[slack]: https://ldnwc.slack.com/
-
+[slack]: https://ldnwc.slack.com/join/shared_invite/enQtMzg5ODc4MDM2NzM4LWI5MmUzNTU0ZTcwNmZkMzJlZjA5ZmE0NTBiMTZhYTdjZjljM2FiMDI2NDQ2ZDY0YmEwZDY2YmE4OWY1YTRhMWM
